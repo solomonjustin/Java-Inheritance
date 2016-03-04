@@ -3,6 +3,7 @@ package Lab5;
 import Lab4.Essay;
 import Lab4.GradedActivity;
 
+//class to be inherited from
 public class CourseGrades{
 	
 	//fields
