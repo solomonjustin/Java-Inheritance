@@ -26,5 +26,9 @@ public class BigDriver {
 		
 
 	}
+	//interface method
+	public interface DisplayGrades{
+		void displayGrades();
+	}
 
 }
