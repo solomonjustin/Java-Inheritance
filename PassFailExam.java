@@ -1,6 +1,6 @@
 package Lab5;
 
-public class PassFailExam extends PassFailActivity{
+public class PassFailExam extends PassFailActivity{ //inherits from pass fail activity
 	
 	private int _numQuestions;
 	private double _pointsEach;
